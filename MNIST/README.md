@@ -8,7 +8,7 @@ It includes two versions:
 ## Project Structure
 MNIST/
 │
-├── data/ # MNIST dataset (downloaded manually)
+├── data/MNIST/raw # MNIST dataset (downloaded manually)
 │ ├── train-images-idx3-ubyte(.gz)
 │ ├── train-labels-idx1-ubyte(.gz)
 │ ├── t10k-images-idx3-ubyte(.gz)
